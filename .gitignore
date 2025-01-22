@@ -1,0 +1,14 @@
+# Ignore Node.js dependencies
+frontend/node_modules/
+
+# Ignore Python Virtual Environment
+
+tenv/
+
+# Ignore build files
+frontend/build/
+
+# Ignore system files
+.DS_Store
+
+
